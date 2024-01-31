@@ -1,0 +1,7 @@
+{
+    "workbench.preferredDarkColorTheme": "Quiet Light",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "database-client.terminalTheme": "OneDark",
+    "workbench.colorTheme": "Default Dark+"
+}
